@@ -1,4 +1,4 @@
 # sampleProject
-Author - Saurabh choudhary
-Contributor - Saurabh choudhary
+Author - Saurabh choudhary <br>
+Contributor - Saurabh choudhary <br>
 Brand name - Saurabh Natural Fitness
